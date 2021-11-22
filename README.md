@@ -1,7 +1,7 @@
 # Data Analysis
 ![](https://www.revinate.com/wp-content/uploads/iStock-504903111-1140x411.jpg)
 
-### In this section, I will process one dataset and task with related problems to solve using the tools that leared in August 2020 including:
+### In this section, I will process one dataset and task with related problems to solve using the tools that learned in August 2020 including:
 
 - Pandas
 - Matplotlib & Seaborn
